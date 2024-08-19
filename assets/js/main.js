@@ -10,46 +10,45 @@ typeWrite(document.querySelector(".typewriter"));
 
 hoverChangeExperience(
   ".digitalhouse",
-  `Worked as a frontend Intern, Helped Renewing UI of the official
-  website. Designed Frontend of the website(Figma).Debuged and
-  optimized their official website(React.js). Interacted with
-  users. Mainly worked with (React, javascript, HTML, CSS, Figma)`,
-  "Front-End Developer(Intern)",
+  `Worked as a frontend intern. Helped renew the UI of the official
+  website. Designed the frontend of the website (Figma). Debugged and
+  optimized their official website (React.js). Interacted with
+  users. Mainly worked with React, JavaScript, HTML, CSS, and Figma.`,
+  "Front-End Developer (Intern)",
   "Webiknowr",
   "Feb 2020 - Apr 2020 (2 months)"
 );
 
 hoverChangeExperience(
   ".zuplae",
-  `Developed a Basic UI for Banking managment system. and completed all the tasks assigned by seniors.worked mainly on (React.js, HTML, JS, CSS)`,
+  `Developed a basic UI for a banking management system and completed all the tasks assigned by seniors. Worked mainly with React.js, HTML, JS, and CSS.`,
   "Web Developer (Intern)",
   "The Sparks Foundation",
-  "Jan 2021 - Feb 2021 (1 Month)"
+  "Jan 2021 - Feb 2021 (1 month)"
 );
 
 hoverChangeExperience(
   ".codigofontetv",
-  ` <br>
+  `<br>
   - Qualified GATE 2022 and GATE 2023 with above 96 percentile.<br>
-  - Solved over 500 coding problems across various platforms, showcasing strong problem-solving skills. <br>
-  - Leetcode Top 19% in contest rating.<br>
-  - As, I was preparing for competetive exam I did'nt join any Company during my 3rd and 4th year of graduation. But I kept on pollishing my skills and Making new Achivements<br>`,
-  "Achivements",
+  - Solved over 500 coding problems across various platforms, showcasing strong problem-solving skills.<br>
+  - LeetCode Top 19% in contest rating.<br>
+  - As I was preparing for competitive exams, I didn't join any company during my 3rd and 4th years of graduation. But I kept polishing my skills and achieving new milestones.<br>`,
+  "Achievements",
   "",
   "Present"
 );
 
-// hoverChangeExperience(
-//   ".contweb",
-//   `As, I was preparing for competetive exam I did'nt join any Company during my 3rd and 4th yrar of graduation. But I kept on pollishing my skills and Making new Achivements <br> - I Cleared GATE(2022) & GATE(2023) - CSE and Achived (AIR-4500) <br>
-//   - I redesign existing UIs to better adapt Android and IOS devices (Cloned Entire Nike E-com Website)
-//    <br>
-//   - I like Presenting UI concepts in my projects and getting
-//   feedbacks from profesionals.`,
-//   "Developer frontend e UI Designer",
-//   "Personal Projects and Achivements",
-//   "Feb 2021 - Present"
-// );
+hoverChangeExperience(
+  ".text-to-kg",
+  `Developed a fully automated pipeline for generating knowledge graphs from raw text using Large Language Models (LLMs).
+  Integrated NLP and LLMs to process large datasets (200,000 words), resulting in a knowledge graph with 35,000 nodes.
+  Technologies Used: Python, TensorFlow, Transformers, NLP, Ollama, Git.`,
+  "Text to Knowledge Graph (Thesis Project)",
+  "",
+  "March 2024 - May 2024"
+);
+
 
 hoverChangeDescription(
   ".html",
